@@ -1,0 +1,33 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f8f8;
+}
+
+.registro{
+    background-color: #ffd6e0;
+    padding: 15px;
+}
+
+.registro a{
+    margin: 10px;
+}
+.logo{
+    margin-top: 30px;
+}
+
+.descripcion{
+    margin-top: 30px;
+    padding: 20px;
+}
+
+footer{
+    margin-top: 50px;
+    background-color: #eeeeee;
+    padding: 15px;
+}
+
+a{
+    display: inline-block;
+    margin-top: 10px;
+}
